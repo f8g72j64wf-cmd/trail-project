@@ -1,2 +1,2 @@
-# trail-project
+# trial-project
 my first git trial.
